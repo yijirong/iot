@@ -6,14 +6,14 @@
 [2020-09-05] reviewed the syllabus and began to study the IEEE writing style.  
 
 # Weekly report 2
-[2020-09-07] Read the first and second chapter of book 'Internet of Things-From Research and Innovation to Market Deployment' and set up the rasperberrypi.  
+[2020-09-07] Read the first and second chapter of book 'Internet of Things-From Research and Innovation to Market Deployment' and set up the Raspberry Pi.  
 
 # Weekly report 3
 [2020-09-14] Did the lab2A(GPIO and serial communication) and read the third part of the book.  
 
 [2020-09-15] Learned the basic knowledge about the iot and reviewed the second class.  
 
-[2020-09-16] Run some code on rasperberrypi and continued to read the third part of the book.  
+[2020-09-16] Run some code on Raspberry Pi and continued to read the third part of the book.  
 
 # Weekly report 4
 [2020-09-19] Learn IEEE Writing Style.
@@ -32,3 +32,9 @@
 
 [2020-10-09] Kept studying the Raspberry Pi and review the IoT lesson. 
 
+# Weekly report 7
+[2020-10-13] Begin to read the forth part of book 'Inthernet of Things-From Research and Innovation to Market Deployment'.
+
+[2020-10-15] Using the Raspberry Pi to control a online fun catch does seem a intesting topic.
+
+[2020-10-16] Begin to contact related knowledge about the 'fun catch'.
