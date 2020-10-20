@@ -31,3 +31,4 @@
 [2020-10-05] Reading the chapter 4 of the book and run some program to improve my coding ability.
 
 [2020-10-09] Kept studying the Raspberry Pi and review the IoT lesson. 
+
