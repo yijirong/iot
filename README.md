@@ -35,6 +35,6 @@
 # Weekly report 7
 [2020-10-13] Begin to read the forth part of book 'Inthernet of Things-From Research and Innovation to Market Deployment'.
 
-[2020-10-15] Using the Raspberry Pi to control an online fun catch does seem a intesting topic.
+[2020-10-15] Using the Raspberry Pi to control an online fun catch does seem an intesting topic.
 
 [2020-10-16] Begin to contact related knowledge about the 'fun catch'.
