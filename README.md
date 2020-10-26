@@ -1,7 +1,7 @@
 # iot
 
 # Weekly report 1
-[2020-08-31] Took part in the first class and had a preliminary understanding of the main content of the IOT.  
+[2020-08-31] Took part in the first class and had a preliminary understanding of the main content of the IoT.  
 
 [2020-09-05] reviewed the syllabus and began to study the IEEE writing style.  
 
@@ -38,3 +38,8 @@
 [2020-10-15] Using the Raspberry Pi to control an online fun catch does seem an intesting topic.
 
 [2020-10-16] Begin to contact related knowledge about the 'fun catch'.
+
+# Weekly report 8
+[2020-10-20] Continued to read the forth part of the book and studied the Raspberry Pi.
+
+[2020-10-23] Studied Python and did some practice to improve my coding ability. 
