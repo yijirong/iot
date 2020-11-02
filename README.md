@@ -43,3 +43,6 @@
 [2020-10-20] Continued to read the forth part of the book and studied the Raspberry Pi.
 
 [2020-10-23] Studied Python and did some practice to improve my coding ability. 
+
+# Weekly report 9
+[2020-10-29] Continued to read the forth part of the book and review the IoT lesson in the zoom.
