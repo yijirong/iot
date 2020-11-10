@@ -48,7 +48,7 @@
 [2020-10-29] Continued to read the forth part of the book and review the IoT lesson in the zoom.
 
 # Weekly report 10
-[2020-11-06] Begin to read the fifth part of the book and continue to contact some knowledge about the topic 'fun catch'.
+[2020-11-06] Begin to read the fifth part of the book and continued to contact some knowledge about the topic 'fun catch'.
 
 [2020-11-08] Did the lab 4 and 5.
 
