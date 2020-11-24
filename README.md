@@ -52,3 +52,10 @@
 
 [2020-11-08] Did the lab 4 and 5.
 
+# Weekly report 11
+[2020-11-12] Did the lab 6 and 7. After contacting much information about the 'fun catch'， I found that if I want to achieve this project I have to buy many hardwares and I did not have enough time to study the sealRTC to realize the function that let the user and the manager communicate through this app. So I decided to give up this topic and find another topic as the final project. I will try to accomplish this topic after class.
+
+[2020-11-15] I decided to make a Bluetooth communication machine with the function of collecting temperature and humidity of the environment. Studied related information and did the lab 8.
+
+# Weekly report 12
+[2020-11-19] Bought DHT11 digital temperature and humidity sensor and the bluetooth module which are needed in the final project. And studied how to use
