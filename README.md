@@ -1,7 +1,7 @@
 # iot
 
 [Final project]  
-Title: Temperature and Humidity Monitor
+Title: Temperature and Humidity Monitor  
 Design a program that use the sensor to measure the temperature and humidity of the environment and send the information to your phone.  
 DHT11, measure the humidity and temperatue of the environment.
 
