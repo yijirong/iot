@@ -68,5 +68,5 @@ DHT11, measure the humidity and temperatue of the environment.
 # Weekly report 13
 [2020-11-25] Did the lab and began use the DHT11 to measure the temperature and humidity of the environment.
 
-[2020-11-26] I found that if I use the bluetooth to gain the information it would be limited in a small space, so I decided to use the Wi-Fi to receive the information.
+[2020-11-26] I found that if I use the bluetooth to gain the information it would be limited in a small space, so I decided to use the Wi-Fi to receive the information. And I bought a DS 1307 clock to achieve the warning function.
 
