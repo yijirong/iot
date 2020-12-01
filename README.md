@@ -1,7 +1,8 @@
 # iot
 
-[Final project]
-Design a program that use the sensor to measure the temperature and humidity of the environment and send the information to your phone.
+[Final project]  
+Design a program that use the sensor to measure the temperature and humidity of the environment and send the information to your phone.  
+DHT11, measure the humidity and temperatue of the environment.
 
 # Weekly report 1
 [2020-08-31] Took part in the first class and had a preliminary understanding of the main content of the IoT.  
