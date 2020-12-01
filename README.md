@@ -64,7 +64,7 @@ Design a program that use the sensor to measure the temperature and humidity of 
 [2020-11-19] Bought DHT11 digital temperature and humidity sensor and the bluetooth module which are needed in the final project. And studied how to use them.
 
 # Weekly report 13
-[2020-11-25] Did the lab and begin use the DHT11 to measure the temperature and humidity of the environment.
+[2020-11-25] Did the lab and began use the DHT11 to measure the temperature and humidity of the environment.
 
-[2020-11-26] I find that if I use the bluetooth to gain the information it will be limited in a small space, so I decided to use the Wi-Fi to receive the information.
+[2020-11-26] I found that if I use the bluetooth to gain the information it would be limited in a small space, so I decided to use the Wi-Fi to receive the information.
 
