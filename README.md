@@ -76,3 +76,5 @@ DHT11, measure the humidity and temperatue of the environment.
 [2020-12-04] Reorganized my final project and I learnd a way to capture the screen of the Raspberry Pi.
 
 [2020-12-06] Did the lab 10.
+
+[2020-12-07] Bought the WM8960 audio module, and I would add a voice prompt function into the project and I would achieve this function after class.
