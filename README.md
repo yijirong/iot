@@ -6,17 +6,17 @@ Design a program that use the sensor to measure the temperature and humidity of 
 DHT11, measure the humidity and temperatue of the environment.
 
 # Weekly report 1
-[2020-08-31] Took part in the first class and had a preliminary understanding of the main content of the IoT.  
+[2020-08-31] Took part in the first class and had a preliminary understanding of the main content of this class.  
 
-[2020-09-05] reviewed the syllabus and began to study the IEEE writing style.  
+[2020-09-05] Reviewed the syllabus and began to study the IEEE writing style.  
 
 # Weekly report 2
-[2020-09-07] Read the first and second chapter of book 'Internet of Things-From Research and Innovation to Market Deployment' and set up the Raspberry Pi.  
+[2020-09-07] Read the first and second chapters of book 'Internet of Things-From Research and Innovation to Market Deployment' and set up the Raspberry Pi.  
 
 # Weekly report 3
 [2020-09-14] Did the lab 2A (GPIO and serial communication) and read the third part of the book.  
 
-[2020-09-15] Learned the basic knowledge about the iot and reviewed the second class.  
+[2020-09-15] Learned the basic knowledge and reviewed the second class.  
 
 [2020-09-16] Run some code on Raspberry Pi and continued to read the third part of the book.  
 
@@ -77,4 +77,4 @@ DHT11, measure the humidity and temperatue of the environment.
 
 [2020-12-06] Did the lab 10.
 
-[2020-12-07] Bought the WM8960 audio module, and I would add a voice prompt function into the project and I would achieve this function after class.
+[2020-12-07] Learnd the WM8960 audio module, and I would add a voice prompt function into the project and I would achieve this function after class.
