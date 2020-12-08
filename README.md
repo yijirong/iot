@@ -21,7 +21,7 @@ DHT11, measure the humidity and temperatue of the environment.
 [2020-09-16] Run some code on Raspberry Pi and continued to read the third part of the book.  
 
 # Weekly report 4
-[2020-09-19] Learn IEEE Writing Style.
+[2020-09-19] Learn IEEE writing style.
 
 [2020-09-23] Did the lab 3, learned Python, used the pip to install packages in repository.  
 
@@ -38,7 +38,7 @@ DHT11, measure the humidity and temperatue of the environment.
 [2020-10-09] Kept studying the Raspberry Pi and review the IoT lesson. 
 
 # Weekly report 7
-[2020-10-13] Begin to read the fourth part of book 'Internet of Things-From Research and Innovation to Market Deployment'.
+[2020-10-13] Begin to read the fourth part of book 'Internet of Things-From Research and Innovation to Market Deployment.'
 
 [2020-10-15] Using the Raspberry Pi to control an online fun catch does seem an interesting topic.
 
@@ -58,7 +58,7 @@ DHT11, measure the humidity and temperatue of the environment.
 [2020-11-08] Did the labs 4 and 5.
 
 # Weekly report 11
-[2020-11-12] Did the lab 6 and 7. After contacting much information about the 'fun catch'， I found that if I want to achieve this project I have to buy many hardwares and I did not have enough time to study the sealRTC to realize the function that let the user and the manager communicate through this app. So I decided to give up this topic and find another topic as the final project. I will try to accomplish this topic after class.
+[2020-11-12] Did the labs 6 and 7. After contacting much information about the 'fun catch'， I found that if I want to achieve this project I have to buy many hardwares and I did not have enough time to study the sealRTC to realize the function that let the user and the manager communicate through this app. So I decided to give up this topic and find another topic as the final project. I will try to accomplish this topic after class.
 
 [2020-11-15] I decided to make a Bluetooth communication machine with the function of collecting temperature and humidity of the environment. Studied related information and did the lab 8.
 
@@ -66,7 +66,13 @@ DHT11, measure the humidity and temperatue of the environment.
 [2020-11-19] Bought DHT11 digital temperature and humidity sensor and the bluetooth module which are needed in the final project. And studied how to use them.
 
 # Weekly report 13
-[2020-11-25] Did the lab 8 and began use the DHT11 to measure the temperature and humidity of the environment.
+[2020-11-25] Did the lab 9 and began use the DHT11 to measure the temperature and humidity of the environment.
 
 [2020-11-26] I found that if I use the bluetooth to gain the information it would be limited in a small space, so I decided to use the Wi-Fi to receive the information. And I bought a DS 1307 clock to achieve the warning function.
 
+# Weekly report 14
+[2020-12-02] Continued the final project and tested the result. The expected function of the project is achieved and begin to thought if there are some other functions can be add into it.
+
+[2020-12-04] Reorganized my final project and I learnd a way to capture the screen of the Raspberry Pi.
+
+[2020-12-06] Did the lab 10.
